@@ -1,7 +1,12 @@
-import React from 'react'
+import React from "react";
+import HomeWrapper from "./home/HomeWrapper";
+import HomeMiddleWrapper from "./home/HomeMiddleWrapper";
 
 export default function Home() {
   return (
-    <div>Home</div>
-  )
+    <>
+      <HomeWrapper />
+      <HomeMiddleWrapper />
+    </>
+  );
 }
