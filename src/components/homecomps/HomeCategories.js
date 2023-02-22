@@ -1,8 +1,11 @@
 import React from "react";
-import camera from "../../../assests/images/camera.jpg";
-import smarttv from "../../../assests/images/tv.jpg";
+// import camera from "../../../assests/images/camera.jpg";
+// import smarttv from "../../../assests/images/tv.jpg";
 
-import headphones from "../../../assests/images/headphone.jpg";
+import headphones from "../../assests/images/headphone.jpg";
+import camera from "../../assests/images/camera.jpg";
+import smarttv from "../../assests/images/tv.jpg";
+
 export default function HomeCategories() {
   return (
     <>

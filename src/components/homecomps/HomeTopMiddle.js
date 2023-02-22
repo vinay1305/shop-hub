@@ -1,10 +1,10 @@
 import React from "react";
-import services from "../../../assests/images/service.png";
+import services from "../../assests/images/service.png";
 
-import services2 from "../../../assests/images/service-02.png";
-import services3 from "../../../assests/images/service-03.png";
-import services4 from "../../../assests/images/service-04.png";
-import services5 from "../../../assests/images/service-05.png";
+import services2 from "../../assests/images/service-02.png";
+import services3 from "../../assests/images/service-03.png";
+import services4 from "../../assests/images/service-04.png";
+import services5 from "../../assests/images/service-05.png";
 // import services from "../../../assests/images/service.png"
 export default function HomeTopMiddle() {
   return (
